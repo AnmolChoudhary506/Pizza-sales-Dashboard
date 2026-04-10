@@ -54,21 +54,27 @@ Key Fields
    * Average Pizzas per Order: 2.32
 
 📈 Dashboard Insights
+
 🔹 Sales Performance
    * Consistent revenue with strong order volume
    * Customers order 2+ pizzas per transaction, indicating bundle behavior
+     
 🔹 Best & Worst Sellers
    * Top Revenue Generator: Thai Chicken Pizza
    * Top Quantity Seller: Classic Deluxe Pizza
    * Lowest Performer: Brie Carre Pizza
+
 🔹 Daily Trends
    * Peak orders on Friday & Saturday evenings
    * Weekends outperform weekdays
+
 🔹 Monthly Trends
    * Highest sales in January & July
    * Lower performance in October & December
+
 🔹 Category Insights
    * Classic category contributes the highest revenue share
+
 🔹 Size Insights
    * Large pizzas generate the most revenue
 
