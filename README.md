@@ -1,6 +1,6 @@
 🍕 Pizza Sales Analytics Dashboard
 
-📌 Overview
+📌 Description
 
 Designed an interactive Pizza Sales Dashboard using Power BI to analyze sales performance, customer behavior, and product trends.
 
@@ -129,3 +129,6 @@ FROM pizza_sales;
 ✅ Conclusion
 
 This dashboard provides a comprehensive analysis of pizza sales, helping businesses make informed decisions, improve profitability, and enhance customer satisfaction through data-driven insights.
+
+📸 Dashboard Preview
+Link of Dashboard : 
