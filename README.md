@@ -131,4 +131,5 @@ FROM pizza_sales;
 This dashboard provides a comprehensive analysis of pizza sales, helping businesses make informed decisions, improve profitability, and enhance customer satisfaction through data-driven insights.
 
 📸 Dashboard Preview
-Link of Dashboard : 
+Link of Dashboard : https://github.com/AnmolChoudhary506/Pizza-sales-Dashboard/blob/main/Pizza%20Sales%20Dashboard%20screenshot%20(2).png
+
